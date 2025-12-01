@@ -1,0 +1,71 @@
+[
+  {
+    "order_id": "ORD001",
+    "customer_id": "CUST001",
+    "table": 5,
+    "time": "2025-11-28T19:30:00",
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "quantity": 2,
+        "addons": [
+          "Extra Cheese"
+        ]
+      },
+      {
+        "name": "Caesar Salad",
+        "quantity": 1,
+        "addons": []
+      }
+    ],
+    "status": "PREPARING",
+    "delivery_mode": "table",
+    "loyalty_points_awarded": 0
+  },
+  {
+    "order_id": "ORD002",
+    "customer_id": "CUST002",
+    "table": null,
+    "time": "2025-11-28T19:32:00",
+    "items": [
+      {
+        "name": "Veg Burger",
+        "quantity": 1,
+        "addons": [
+          "Extra Patty"
+        ]
+      },
+      {
+        "name": "French Fries",
+        "quantity": 1,
+        "addons": []
+      }
+    ],
+    "status": "ASSEMBLING",
+    "delivery_mode": "pickup",
+    "loyalty_points_awarded": 0
+  },
+  {
+    "order_id": "ORD003",
+    "customer_id": "CUST003",
+    "table": 3,
+    "time": "2025-11-28T19:35:00",
+    "items": [
+      {
+        "name": "Pasta Alfredo",
+        "quantity": 1,
+        "addons": [
+          "Mushrooms"
+        ]
+      },
+      {
+        "name": "Garlic Bread",
+        "quantity": 2,
+        "addons": []
+      }
+    ],
+    "status": "QUEUED",
+    "delivery_mode": "table",
+    "loyalty_points_awarded": 0
+  }
+]

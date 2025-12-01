@@ -1,0 +1,15 @@
+{
+  "burgers": [
+    {"id": "ITEM_001", "name": "Chicken Pattie Burger", "price": 12.99},
+    {"id": "ITEM_002", "name": "Beef Deluxe Burger", "price": 14.50},
+    {"id": "ITEM_003", "name": "Veggie Supreme", "price": 11.00}
+  ],
+  "sides": [
+    {"id": "ITEM_004", "name": "Crispy Fries", "price": 4.50},
+    {"id": "ITEM_005", "name": "Onion Rings", "price": 5.00}
+  ],
+  "drinks": [
+    {"id": "ITEM_006", "name": "Cola", "price": 2.50},
+    {"id": "ITEM_007", "name": "Lemonade", "price": 3.00}
+  ]
+}

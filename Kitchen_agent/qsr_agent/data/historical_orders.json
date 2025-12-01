@@ -1,0 +1,20 @@
+[
+  {
+    "order_id": "HORD001",
+    "customer_id": "CUST001",
+    "items": [{"name": "Margherita Pizza", "quantity": 2}],
+    "time": "2025-11-20T19:00:00"
+  },
+  {
+    "order_id": "HORD002",
+    "customer_id": "CUST002",
+    "items": [{"name": "Veg Burger", "quantity": 1}],
+    "time": "2025-11-21T19:15:00"
+  },
+  {
+    "order_id": "HORD003",
+    "customer_id": "CUST003",
+    "items": [{"name": "Pasta Alfredo", "quantity": 1}],
+    "time": "2025-11-22T19:30:00"
+  }
+]

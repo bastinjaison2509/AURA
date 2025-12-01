@@ -1,0 +1,17 @@
+[
+  {
+    "customer_id": "CUST001",
+    "order_id": "ORD001",
+    "text": "Pizza was perfect, but salad was soggy."
+  },
+  {
+    "customer_id": "CUST002",
+    "order_id": "ORD002",
+    "text": "Burger was delicious! Fries were okay."
+  },
+  {
+    "customer_id": "CUST003",
+    "order_id": "ORD003",
+    "text": "Pasta was creamy and tasty, garlic bread a bit cold."
+  }
+]
